@@ -1,0 +1,242 @@
+[
+    {
+        "index": "train",
+        "id": 1,
+        "body": {
+            "train_number": 856234,
+            "train_info": "люкс плацкарт св 2011-01-01T12:34 2011-01-03T22:55",
+            "departure": "Галич",
+            "arrive": "Кировск (Ленин.)",
+            "tickets_sold": 3,
+            "tickets_remain": 225
+        }
+    },
+    {
+        "index": "train",
+        "id": 2,
+        "body": {
+            "train_number": 305824,
+            "train_info": "плацкарт купе 2015-06-23T02:48 2015-06-29T15:10",
+            "departure": "Калачинск",
+            "arrive": "Белокуриха",
+            "tickets_sold": 5,
+            "tickets_remain": 937
+        }
+    },
+    {
+        "index": "train",
+        "id": 3,
+        "body": {
+            "train_number": 646593,
+            "train_info": "купе плацкарт св 2015-08-19T19:02 2015-08-24T16:50",
+            "departure": "Объячево",
+            "arrive": "Терней",
+            "tickets_sold": 1,
+            "tickets_remain": 467
+        }
+    },
+    {
+        "index": "train",
+        "id": 4,
+        "body": {
+            "train_number": 805760,
+            "train_info": "св люкс купе плацкарт 2011-05-31T22:29 2011-06-06T22:16",
+            "departure": "Чусовой",
+            "arrive": "Котлас",
+            "tickets_sold": 2,
+            "tickets_remain": 614
+        }
+    },
+    {
+        "index": "train",
+        "id": 5,
+        "body": {
+            "train_number": 230075,
+            "train_info": "купе св 2019-10-28T02:56 2019-10-28T08:12",
+            "departure": "Лабытнанги",
+            "arrive": "Брянск",
+            "tickets_sold": 1,
+            "tickets_remain": 673
+        }
+    },
+    {
+        "index": "train",
+        "id": 6,
+        "body": {
+            "train_number": 531392,
+            "train_info": "люкс плацкарт св 2018-07-02T12:05 2018-07-03T06:33",
+            "departure": "Оленек",
+            "arrive": "Златоуст",
+            "tickets_sold": 2,
+            "tickets_remain": 471
+        }
+    },
+    {
+        "index": "train",
+        "id": 7,
+        "body": {
+            "train_number": 634666,
+            "train_info": "плацкарт купе св люкс 2014-08-15T18:11 2014-08-18T07:38",
+            "departure": "Красноярск",
+            "arrive": "Кырен",
+            "tickets_sold": 1,
+            "tickets_remain": 694
+        }
+    },
+    {
+        "index": "train",
+        "id": 8,
+        "body": {
+            "train_number": 118630,
+            "train_info": "св купе люкс 2010-12-17T17:06 2010-12-18T13:50",
+            "departure": "Домбай",
+            "arrive": "Азов (Рост.)",
+            "tickets_sold": 0,
+            "tickets_remain": 717
+        }
+    },
+    {
+        "index": "train",
+        "id": 9,
+        "body": {
+            "train_number": 742325,
+            "train_info": "св 2011-11-30T10:53 2011-12-05T05:47",
+            "departure": "Верхний Уфалей",
+            "arrive": "Шахты",
+            "tickets_sold": 0,
+            "tickets_remain": 333
+        }
+    },
+    {
+        "index": "train",
+        "id": 10,
+        "body": {
+            "train_number": 753154,
+            "train_info": "св плацкарт купе люкс 2019-09-15T19:20 2019-09-19T19:07",
+            "departure": "Чермоз",
+            "arrive": "Тайшет",
+            "tickets_sold": 3,
+            "tickets_remain": 472
+        }
+    },
+    {
+        "index": "train",
+        "id": 11,
+        "body": {
+            "train_number": 903383,
+            "train_info": "купе люкс св 2013-12-12T09:44 2013-12-18T21:52",
+            "departure": "Витим",
+            "arrive": "Горячий Ключ",
+            "tickets_sold": 1,
+            "tickets_remain": 100
+        }
+    },
+    {
+        "index": "train",
+        "id": 12,
+        "body": {
+            "train_number": 780022,
+            "train_info": "плацкарт 2012-09-12T00:44 2012-09-16T00:38",
+            "departure": "Геленджик",
+            "arrive": "Оренбург",
+            "tickets_sold": 1,
+            "tickets_remain": 288
+        }
+    },
+    {
+        "index": "train",
+        "id": 13,
+        "body": {
+            "train_number": 47477,
+            "train_info": "люкс купе св плацкарт 2010-04-22T11:42 2010-04-24T11:59",
+            "departure": "Истра",
+            "arrive": "Королев",
+            "tickets_sold": 0,
+            "tickets_remain": 920
+        }
+    },
+    {
+        "index": "train",
+        "id": 14,
+        "body": {
+            "train_number": 300831,
+            "train_info": "св плацкарт люкс 2014-01-07T00:56 2014-01-13T06:39",
+            "departure": "Арзамас",
+            "arrive": "Вытегра",
+            "tickets_sold": 2,
+            "tickets_remain": 295
+        }
+    },
+    {
+        "index": "train",
+        "id": 15,
+        "body": {
+            "train_number": 204187,
+            "train_info": "св люкс купе 2015-01-07T08:29 2015-01-07T12:34",
+            "departure": "Кущевская",
+            "arrive": "Каменномостский",
+            "tickets_sold": 0,
+            "tickets_remain": 530
+        }
+    },
+    {
+        "index": "train",
+        "id": 16,
+        "body": {
+            "train_number": 203676,
+            "train_info": "купе плацкарт св люкс 2017-11-18T08:24 2017-11-21T04:00",
+            "departure": "Усть-Баргузин",
+            "arrive": "Нефтекамск",
+            "tickets_sold": 1,
+            "tickets_remain": 905
+        }
+    },
+    {
+        "index": "train",
+        "id": 17,
+        "body": {
+            "train_number": 836498,
+            "train_info": "плацкарт люкс 2019-04-10T18:47 2019-04-13T16:39",
+            "departure": "Двинской",
+            "arrive": "Шуя",
+            "tickets_sold": 0,
+            "tickets_remain": 471
+        }
+    },
+    {
+        "index": "train",
+        "id": 18,
+        "body": {
+            "train_number": 966227,
+            "train_info": "люкс св плацкарт 2017-10-30T02:34 2017-11-02T09:19",
+            "departure": "Муравленко",
+            "arrive": "Петухово",
+            "tickets_sold": 5,
+            "tickets_remain": 617
+        }
+    },
+    {
+        "index": "train",
+        "id": 19,
+        "body": {
+            "train_number": 258698,
+            "train_info": "св купе 2017-04-05T09:25 2017-04-05T11:05",
+            "departure": "Каспийск",
+            "arrive": "Адлер",
+            "tickets_sold": 1,
+            "tickets_remain": 636
+        }
+    },
+    {
+        "index": "train",
+        "id": 20,
+        "body": {
+            "train_number": 713499,
+            "train_info": "купе люкс плацкарт 2011-12-09T17:13 2011-12-12T09:30",
+            "departure": "Новокузнецк",
+            "arrive": "Смирных",
+            "tickets_sold": 1,
+            "tickets_remain": 745
+        }
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "index": "ticket",
+        "id": 1,
+        "body": {
+            "user_id": "d54eb390-46b3-47ff-aeaa-96879e3fbb92",
+            "personal": "Галина Валентиновна Николаева",
+            "date_purchase": "2015-05-25T19:47:14",
+            "price": 15444.95,
+            "train_id": 2
+        }
+    },
+    {
+        "index": "ticket",
+        "id": 2,
+        "body": {
+            "user_id": "7eb10bc3-88f8-49b2-ba7f-ef756f455481",
+            "personal": "Белозерова Фёкла Викторовна",
+            "date_purchase": "2011-11-16T15:12:41",
+            "price": 3172.69,
+            "train_id": 20
+        }
+    },
+    {
+        "index": "ticket",
+        "id": 3,
+        "body": {
+            "user_id": "3e01f5b5-bfe9-4f29-ba50-475dadf5a1fb",
+            "personal": "Милий Анисимович Лихачев",
+            "date_purchase": "2019-10-18T11:55:25",
+            "price": 11806.73,
+            "train_id": 5
+        }
+    },
+    {
+        "index": "ticket",
+        "id": 4,
+        "body": {
+            "user_id": "ed8df23b-0432-4fe1-b5a3-3d771ef41b85",
+            "personal": "Феоктист Трофимович Виноградов",
+            "date_purchase": "2015-06-16T18:47:37",
+            "price": 1047.43,
+            "train_id": 2
+        }
+    },
+    {
+        "index": "ticket",
+        "id": 5,
+        "body": {
+            "user_id": "ed8df23b-0432-4fe1-b5a3-3d771ef41b85",
+            "personal": "Феоктист Трофимович Виноградов",
+            "date_purchase": "2015-06-16T18:47:37",
+            "price": 2063.12,
+            "train_id": 2
+        }
+    },
+    {
+        "index": "ticket",
+        "id": 6,
+        "body": {
+            "user_id": "a94a30eb-a111-4210-8abc-96598cb41379",
+            "personal": "Никонова Светлана Максимовна",
+            "date_purchase": "2014-07-23T04:10:58",
+            "price": 18601.52,
+            "train_id": 7
+        }
+    },
+    {
+        "index": "ticket",
+        "id": 7,
+        "body": {
+            "user_id": "baed8d4f-f98e-49c2-9ab1-5307be7f6a56",
+            "personal": "Ратмир Филимонович Максимов",
+            "date_purchase": "2012-09-04T20:43:52",
+            "price": 5428.69,
+            "train_id": 12
+        }
+    },
+    {
+        "index": "ticket",
+        "id": 8,
+        "body": {
+            "user_id": "1c826b82-fd22-42fc-95bd-6011d10214f3",
+            "personal": "Щербаков Валерьян Евсеевич",
+            "date_purchase": "2019-08-16T10:19:09",
+            "price": 7907.05,
+            "train_id": 10
+        }
+    },
+    {
+        "index": "ticket",
+        "id": 9,
+        "body": {
+            "user_id": "f2c47816-0e64-44b3-bc1c-a549b605be62",
+            "personal": "Савин Валерьян Гурьевич",
+            "date_purchase": "2019-09-01T15:19:14",
+            "price": 18434.23,
+            "train_id": 10
+        }
+    },
+    {
+        "index": "ticket",
+        "id": 10,
+        "body": {
+            "user_id": "b553f497-afc3-49cf-9f2a-5e391d6f757a",
+            "personal": "Тимур Гаврилович Калашников",
+            "date_purchase": "2017-10-27T12:33:42",
+            "price": 5291.26,
+            "train_id": 18
+        }
+    },
+    {
+        "index": "ticket",
+        "id": 11,
+        "body": {
+            "user_id": "ba154be9-4462-464e-8415-1ccd8549cd00",
+            "personal": "Власов Якуб Ильич",
+            "date_purchase": "2015-05-27T05:47:36",
+            "price": 8525.73,
+            "train_id": 2
+        }
+    },
+    {
+        "index": "ticket",
+        "id": 12,
+        "body": {
+            "user_id": "68712a4a-6871-4409-bc71-b4f078d8eeb9",
+            "personal": "Андреева Раиса Филипповна",
+            "date_purchase": "2015-08-05T18:01:05",
+            "price": 18039.29,
+            "train_id": 3
+        }
+    },
+    {
+        "index": "ticket",
+        "id": 13,
+        "body": {
+            "user_id": "13d0a67e-6f79-45a4-87cc-cdedd26196fd",
+            "personal": "Орлова Валентина Степановна",
+            "date_purchase": "2017-10-23T02:33:12",
+            "price": 15379.7,
+            "train_id": 18
+        }
+    },
+    {
+        "index": "ticket",
+        "id": 14,
+        "body": {
+            "user_id": "37e15a1f-b15c-468e-9189-fb5fd8af9e7d",
+            "personal": "Веселов Кондрат Григорьевич",
+            "date_purchase": "2013-12-01T07:43:12",
+            "price": 18498.04,
+            "train_id": 11
+        }
+    },
+    {
+        "index": "ticket",
+        "id": 15,
+        "body": {
+            "user_id": "1a6fb304-f840-4a6a-b4e6-12b6e0e8f80d",
+            "personal": "Радован Арсеньевич Агафонов",
+            "date_purchase": "2018-06-09T08:04:20",
+            "price": 14553.32,
+            "train_id": 6
+        }
+    },
+    {
+        "index": "ticket",
+        "id": 16,
+        "body": {
+            "user_id": "aa906363-448e-4fb6-9076-75c4bd72e64f",
+            "personal": "Давыд Трифонович Федотов",
+            "date_purchase": "2013-12-15T12:55:27",
+            "price": 4109.91,
+            "train_id": 14
+        }
+    },
+    {
+        "index": "ticket",
+        "id": 17,
+        "body": {
+            "user_id": "f391f5fd-d98d-4658-9e22-27e1be38d671",
+            "personal": "Шубина Алина Тимуровна",
+            "date_purchase": "2017-10-18T14:33:14",
+            "price": 643.68,
+            "train_id": 18
+        }
+    },
+    {
+        "index": "ticket",
+        "id": 18,
+        "body": {
+            "user_id": "7c60b5f3-fdc8-4334-b8e7-25c6e9198861",
+            "personal": "Татьяна Ждановна Захарова",
+            "date_purchase": "2011-05-19T01:28:06",
+            "price": 19470.63,
+            "train_id": 4
+        }
+    },
+    {
+        "index": "ticket",
+        "id": 19,
+        "body": {
+            "user_id": "acaa6fca-159d-47d8-95c5-9200f4b97a7e",
+            "personal": "Афанасьева Маргарита Александровна",
+            "date_purchase": "2017-10-20T18:23:03",
+            "price": 15285.62,
+            "train_id": 16
+        }
+    },
+    {
+        "index": "ticket",
+        "id": 20,
+        "body": {
+            "user_id": "872dfe45-b7fd-482c-8725-9cea71c7d2cd",
+            "personal": "Тимур Викентьевич Лапин",
+            "date_purchase": "2010-12-05T22:33:15",
+            "price": 9332.23,
+            "train_id": 1
+        }
+    },
+    {
+        "index": "ticket",
+        "id": 21,
+        "body": {
+            "user_id": "c0dedd61-4b8a-4a88-a203-e95e243cfefe",
+            "personal": "Юлия Григорьевна Никифорова",
+            "date_purchase": "2015-06-07T23:47:22",
+            "price": 850.58,
+            "train_id": 2
+        }
+    },
+    {
+        "index": "ticket",
+        "id": 22,
+        "body": {
+            "user_id": "4f180ede-9603-4e66-80b5-7d2abfc08d6a",
+            "personal": "Зинаида Филипповна Афанасьева",
+            "date_purchase": "2017-03-12T23:24:22",
+            "price": 12698.13,
+            "train_id": 19
+        }
+    },
+    {
+        "index": "ticket",
+        "id": 23,
+        "body": {
+            "user_id": "7d9f730f-4ada-4b86-8059-d277726997b8",
+            "personal": "г-жа Одинцова Людмила Филипповна",
+            "date_purchase": "2010-12-07T23:33:31",
+            "price": 3064.01,
+            "train_id": 1
+        }
+    },
+    {
+        "index": "ticket",
+        "id": 24,
+        "body": {
+            "user_id": "718296d6-92dc-42d2-a832-ee0a81b0abd2",
+            "personal": "Назаров Куприян Филимонович",
+            "date_purchase": "2015-06-04T16:47:41",
+            "price": 16382.64,
+            "train_id": 2
+        }
+    },
+    {
+        "index": "ticket",
+        "id": 25,
+        "body": {
+            "user_id": "146df0bf-28e0-48e7-bde6-c8388f0366ba",
+            "personal": "Макарова Александра Валентиновна",
+            "date_purchase": "2013-12-21T14:55:07",
+            "price": 2457.1,
+            "train_id": 14
+        }
+    },
+    {
+        "index": "ticket",
+        "id": 26,
+        "body": {
+            "user_id": "82e2e96a-aaa5-4d35-b796-98703a74aaa4",
+            "personal": "Наина Святославовна Корнилова",
+            "date_purchase": "2017-10-28T08:33:13",
+            "price": 2413.96,
+            "train_id": 18
+        }
+    },
+    {
+        "index": "ticket",
+        "id": 27,
+        "body": {
+            "user_id": "2f578acf-a65d-4670-b07b-895d37ee12d0",
+            "personal": "Гуляев Кондратий Елисеевич",
+            "date_purchase": "2019-08-17T19:19:11",
+            "price": 19451.21,
+            "train_id": 10
+        }
+    },
+    {
+        "index": "ticket",
+        "id": 28,
+        "body": {
+            "user_id": "52bb0c50-8544-40ff-ac0a-73528ac22ea8",
+            "personal": "Светлана Натановна Щербакова",
+            "date_purchase": "2017-10-26T07:33:55",
+            "price": 11485.38,
+            "train_id": 18
+        }
+    },
+    {
+        "index": "ticket",
+        "id": 29,
+        "body": {
+            "user_id": "ed162b17-3b4b-4a05-89f0-1d3ca367d124",
+            "personal": "Сысоев Герасим Жоресович",
+            "date_purchase": "2011-05-05T05:28:42",
+            "price": 16730.02,
+            "train_id": 4
+        }
+    },
+    {
+        "index": "ticket",
+        "id": 30,
+        "body": {
+            "user_id": "256a5a59-b010-42ac-9afc-f763366688db",
+            "personal": "г-н Белоусов Юрий Вячеславович",
+            "date_purchase": "2018-06-05T20:04:41",
+            "price": 6325.42,
+            "train_id": 6
+        }
+    }
+]
